@@ -21,7 +21,6 @@
 
 * Mathematical Art Galleries
     * 日程: 2019/01/16 - 2018/01/19
-    * 場所:
     * 場所: Baltimore
     * 「Isometric transformation between Catenoid and Helicoid」を持って行く予定です.
     * [個別ページ](http://gallery.bridgesmathart.org/exhibitions/2019-joint-mathematics-meetings/yuto-horikawa)
