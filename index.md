@@ -6,22 +6,14 @@ Horikawa Yuto
 自己紹介: カメを飼っています.
 
 ## SNSとか
-* Twitter: [@Hyrodium](https://twitter.com/Hyrodium)
-    * 一番よく居ます
-* Tumblr: https://hyrodium.tumblr.com
-    * 拙い英語を添えて絵とか投稿してます
-* GitHub: https://github.com/hyrodium
-    * public repositoryはあまり置いてません
-* Facebook: https://www.facebook.com/hyrodium
-    * あまり居ません
-* Mathtodon: https://mathtod.online/@hyrodium
-    * 数学の話をしてます
-* SlideShare: https://www.slideshare.net/yutohorikawa
-    * 昔のスライドとかあります
-* makebooth: http://makebooth.com/booth/hyrodium
-    * 昔の作品とかあります
-* Mail: hyrodium@gmail.com
-    * あまり反応は早くないです
+* [Twitter @Hyrodium](https://twitter.com/Hyrodium)  一番よく居ます
+* [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
+* [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
+* [Facebook](https://www.facebook.com/hyrodium) あまり居ません
+* [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
+* [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
+* [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
+* [Mail](hyrodium@gmail.com) あまり反応は早くないです
 
 ## 出展/発表れき
 LT, 制作物展示, 学会発表など
