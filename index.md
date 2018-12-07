@@ -1,11 +1,12 @@
-# profile
-## なまえ
-堀川 由人
-Horikawa Yuto
+# Profile
+## 名前/所属
+名前: 堀川 由人  Horikawa Yuto
+
+学歴: 大阪高専(2010-2014)→大阪大学(2015-2016)→大阪大学院(2017-2018)
 
 自己紹介: カメを飼っています.
 
-## SNSとか
+## 連絡先
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
@@ -15,8 +16,8 @@ Horikawa Yuto
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
 * [Mail](mailto:hyrodium@gmail.com) あまり反応は早くないです
 
-## 出展/発表れき
-LT, 制作物展示, 学会発表など
+## 出展/発表歴
+学会発表, 制作物展示, LTなどなど
 
 * Mathematical Art Galleries
     * 2019/01/16 - 2018/01/19
@@ -34,7 +35,7 @@ LT, 制作物展示, 学会発表など
     * 「Nonlinear elasticity on Riemannian manifold and its application to general surface development」というタイトルでポスター発表しました. Poster Awardでした.
 * MathPower2018
     * 2018/10/06 - 2018/10/07
-    * もっちょさん, ずけやまさん, πendさんと共に「ビジュマス！〜見る数学〜」のコーナーで話しました.
+    * [鯵坂もっちょさん](https://twitter.com/motcho_tw), [ずけやまさん](https://twitter.com/ru_sack), [πendさん](https://twitter.com/end_tt)と共に「ビジュマス！〜見る数学〜」のコーナーで話しました.
     * [当時の公式ページ](https://web.archive.org/web/20181020131658/http://mathpower.sugakubunka.com/)
 * 応用数理学会
     * 2018/09/03 - 2018/09/05
@@ -48,8 +49,8 @@ LT, 制作物展示, 学会発表など
     * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
 * HackDay2016
     * 2016/02/13 - 2016/02/14
+    * [佐野さん](https://twitter.com/taketo1024)と一緒に「ぬるぬる動くメビウス変換」(Riemann球面上のMöbius変換を球面ディスプレイで可視化してleap motionで操作する装置)を作りました. GOLD賞でした.
     * [当時の公式ページ](https://web.archive.org/web/20160215065537/https://hackday.jp/)
-    * @taketo1024さんと一緒に「ぬるぬる動くメビウス変換」(Riemann球面上のMöbius変換を球面ディスプレイで可視化してleap motionで操作する装置)を作りました. GOLD賞でした.
 * 第4回日曜数学会
     * 2016/01/30
     * 「Riemann球面に内接する直方体」というタイトルでLTしました.
