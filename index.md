@@ -6,7 +6,7 @@
 
 自己紹介: カメを飼っています.
 
-## 連絡先
+## 連絡先・SNS
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
