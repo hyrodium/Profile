@@ -12,11 +12,12 @@
 * [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
 * [Facebook](https://www.facebook.com/hyrodium) あまり居ません
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
+* [Instagram](https://www.instagram.com/hyrodium/) 映えてます
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
 * [Mail](mailto:hyrodium@gmail.com) あまり反応は早くないです
 
-## 出展/発表歴
+## 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
 * Mathematical Art Galleries
@@ -40,8 +41,8 @@
 * MathPower2018
     * 日程: 2018/10/06 - 2018/10/07
     * 場所: 六本木ニコファーレ
-    * [鯵坂もっちょさん](https://twitter.com/motcho_tw), [ずけやまさん](https://twitter.com/ru_sack), [πendさん](https://twitter.com/end_tt)と共に「ビジュマス！〜見る数学〜」のコーナーで話しました.
-    * [当時の公式ページ](https://web.archive.org/web/20181020131658/http://mathpower.sugakubunka.com/)
+    * [鯵坂もっちょさん](https://twitter.com/motcho_tw), [ずけやまさん](https://twitter.com/ru_sack), [πendさん](https://twitter.com/end_tt)と一緒に「ビジュマス！〜見る数学〜」のコーナーで話しました.
+    * [当時の公式ページ](https://web.archive.org/web/20181020131658/http://mathpower.sugakubunka.com/), [ニコ生](http://live2.nicovideo.jp/watch/lv314662902)
 * 応用数理学会 2018年度 年会
     * 日程: 2018/09/03 - 2018/09/05
     * 場所: 名古屋大学 東山キャンパス
@@ -52,6 +53,8 @@
     * 数学模型の展示をしました.
     * [個別ページ](https://makezine.jp/event/makers2018/m0469/)
 * 第1回関西日曜数学友の会
+    * 日程: 2016/04/21
+    * 場所: 梅田北新地店 第４会議室
     * 「Frobeniusの定理」というタイトルでLTしました.
     * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
 * HackDay2016
@@ -63,7 +66,7 @@
     * 日程: 2016/01/30
     * 場所: 東京, Loopolic
     * 「Riemann球面に内接する直方体」というタイトルでLTしました.
-    * [発表資料](https://www.slideshare.net/yutohorikawa/riemann-57827572)
+    * [発表資料](https://www.slideshare.net/yutohorikawa/riemann-57827572), [発表の様子](https://www.nicovideo.jp/watch/sm28208708)
 * 第5回プログラマのための数学勉強会
     * 日程: 2015/11/21
     * 場所: TECH PLAY SHIBUYA
