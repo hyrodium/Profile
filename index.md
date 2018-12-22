@@ -15,13 +15,14 @@
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
+* [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
 * [Mail](mailto:hyrodium@gmail.com) あまり反応は早くないです
 
 ## 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
 * Mathematical Art Galleries
-    * 日程: 2019/01/16 - 2018/01/19
+    * 日程: 2019/01/16 - 2019/01/19
     * 場所: Baltimore
     * 「Isometric transformation between Catenoid and Helicoid」を持って行く予定です.
     * [個別ページ](http://gallery.bridgesmathart.org/exhibitions/2019-joint-mathematics-meetings/yuto-horikawa)
