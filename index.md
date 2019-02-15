@@ -6,6 +6,9 @@
 
 自己紹介: カメを飼っています.
 
+これは私の名刺です
+![](https://media.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
+
 ## 連絡先・SNS
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
@@ -13,6 +16,7 @@
 * [Facebook](https://www.facebook.com/hyrodium) あまり居ません
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
+* [Medium](https://medium.com/@Hyrodium) 文章を書いてます
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
 * [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
@@ -24,7 +28,7 @@
 * Mathematical Art Galleries
     * 日程: 2019/01/16 - 2019/01/19
     * 場所: Baltimore
-    * 「Isometric transformation between Catenoid and Helicoid」を持って行く予定です.
+    * 「Isometric transformation between Catenoid and Helicoid」を展示しました.
     * [個別ページ](http://gallery.bridgesmathart.org/exhibitions/2019-joint-mathematics-meetings/yuto-horikawa)
 * Ogaki Mini Maker Faire 2018
     * 日程: 2018/12/01 - 2018/12/02
@@ -54,7 +58,7 @@
     * 数学模型の展示をしました.
     * [個別ページ](https://makezine.jp/event/makers2018/m0469/)
 * 第1回関西日曜数学友の会
-    * 日程: 2016/04/21
+    * 日程: 2018/04/21
     * 場所: 梅田北新地店 第４会議室
     * 「Frobeniusの定理」というタイトルでLTしました.
     * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
