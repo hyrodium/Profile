@@ -7,6 +7,7 @@
 自己紹介: カメを飼っています.
 
 これは私の名刺です
+
 ![](https://media.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
 
 ## 連絡先・SNS
