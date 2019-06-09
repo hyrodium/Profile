@@ -2,7 +2,7 @@
 ## 名前・所属
 名前: 堀川 由人  Horikawa Yuto
 
-学歴: 大阪高専(2010-2014)→大阪大学(2015-2016)→大阪大学院(2017-2018)
+学職歴: 大阪高専(2010-2014) → 大阪大学(2015-2016) → 大阪大学院(2017-2018) → なんらかのしごと(2019-)
 
 自己紹介: カメを飼っています.
 
@@ -10,13 +10,14 @@
 
 ![](https://media.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
 
-## 連絡先・SNS
+## リンクとか
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
 * [Facebook](https://www.facebook.com/hyrodium) あまり居ません
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
+* [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか
 * [Medium](https://medium.com/@Hyrodium) 文章を書いてます
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
