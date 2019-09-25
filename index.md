@@ -15,6 +15,7 @@
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
 * [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
 * [Facebook](https://www.facebook.com/hyrodium) あまり居ません
+* [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
 * [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか
