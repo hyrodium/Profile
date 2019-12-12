@@ -10,16 +10,17 @@
 
 ![](https://media.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
 
-## リンクとか
+## SNSとか
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
 * [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
-* [GitHub](https://github.com/hyrodium) public repositoryはあまり置いてません
+* [GitHub](https://github.com/hyrodium) public repositoryを増やしたい
 * [Facebook](https://www.facebook.com/hyrodium) あまり居ません
 * [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
-* [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか
+* [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか(未整理なのでコンテンツゼロです)
 * [Medium](https://medium.com/@Hyrodium) 文章を書いてます
+* [Qiita](https://qiita.com/Hyrodium) プログラミング関係の記事があります
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
 * [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
 * [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
@@ -90,3 +91,9 @@
     * 場所: 東京, ベースポイント
     * 「逆数の作図からCayley変換まで」というタイトルでLTしました.
     * [発表資料](https://www.slideshare.net/yutohorikawa/cayley-57826500)
+
+## 好きな映画
+* FRANK
+* 3 idiots
+* カメラを止めるな！
+* ゴールデンスランバー
