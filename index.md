@@ -1,5 +1,7 @@
 # Profile
 ## 名前・所属
+<img src="img/hyrodium.jpg" width="200">
+
 名前: 堀川 由人  Horikawa Yuto
 
 学職歴: 大阪高専(2010-2014) → 大阪大学(2015-2016) → 大阪大学院(2017-2018) → なんらかのしごと(2019-)
@@ -8,7 +10,7 @@
 
 これは私の名刺です
 
-![](https://media.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
+![](img/NameCard.gif)
 
 ## SNSとか
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
