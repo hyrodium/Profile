@@ -93,9 +93,3 @@
     * 場所: 東京, ベースポイント
     * 「逆数の作図からCayley変換まで」というタイトルでLTしました.
     * [発表資料](https://www.slideshare.net/yutohorikawa/cayley-57826500)
-
-## 好きな映画
-* FRANK
-* 3 idiots
-* カメラを止めるな！
-* ゴールデンスランバー
