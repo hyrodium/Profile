@@ -1,4 +1,4 @@
-# Profile
+# profile
 ## 名前・所属
 <img src="img/hyrodium.jpg" width="200">
 
