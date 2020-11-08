@@ -4,7 +4,7 @@
 
 名前: 堀川 由人  Horikawa Yuto
 
-学職歴: 大阪高専(2010-2014) → 大阪大学(2015-2016) → 大阪大学院(2017-2018) → なんらかのしごと(2019-)
+学職歴: 大阪高専(2010/04-2015/03) → 大阪大学(2015/04-2017/03) → 大阪大学院(2017/04-2019/03) → なんらかのしごと(2019/03-2019/12) → なんらかのしごと2(2019/01-)
 
 自己紹介: カメを飼っています.
 
@@ -14,23 +14,39 @@
 
 ## SNSとか
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
-* [Tumblr](https://hyrodium.tumblr.com) 拙い英語を添えて絵とか投稿してます
-* [GitHub](https://github.com/hyrodium) public repositoryを増やしたい
-* [Facebook](https://www.facebook.com/hyrodium) あまり居ません
+* [Tumblr](https://hyrodium.tumblr.com) 絵とか投稿してます
+* [GitHub](https://github.com/hyrodium) スターください！
+* [Facebook](https://www.facebook.com/hyrodium) ほぼログインしてませんが, 一応
 * [YouTube](https://www.youtube.com/user/Hyrodium) チャンネル登録をクリック！
 * [Mathtodon](https://mathtod.online/@hyrodium) 数学の話をしてます
 * [Instagram](https://www.instagram.com/hyrodium/) 映えてます
-* [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか(未整理なのでコンテンツゼロです)
+* [HackMD](https://hackmd.io/@hyrodium/) 数学の文章とか, スライドとか
 * [Medium](https://medium.com/@Hyrodium) 文章を書いてます
 * [Qiita](https://qiita.com/Hyrodium) プログラミング関係の記事があります
 * [SlideShare](https://www.slideshare.net/yutohorikawa) 昔のスライドとかあります
-* [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります
+* [makebooth](http://makebooth.com/booth/hyrodium) 昔の作品とかあります (サービス終了っぽいので無効なリンクです、とても悲しい)
 * [Giphy](https://giphy.com/channel/hyrodium) 数学GIFとかあります
 * [Mail](mailto:hyrodium@gmail.com) あまり反応は早くないです
+
+## GitHub Pages
+* PDF
+    * 数学関連のPDF資料を置いてます
+    * https://hyrodium.github.io/pdf
+
 
 ## 出展・発表歴
 学会発表, 制作物展示, LTなどなど
 
+* JuliaTokai #8
+    * 日程: 2020/11/14
+    * 場所: オンライン開催
+    * 「MCMCで求めるHolyNumbers」というタイトルで発表しました.
+    * [発表資料](https://hackmd.io/@hyrodium/S15oYVSYw#/), [イベントページ](https://juliatokai.connpass.com/event/192772/)
+* JuliaTokai #3
+    * 日程: 2019/08/24
+    * 場所: 有限会社来栖川電算
+    * 「JuliaでPOV-Rayのラッパーを実装してみた」というタイトルで発表しました.
+    * [発表資料](https://hackmd.io/@hyrodium/H1FvAp54r#/), [イベントページ](https://juliatokai.connpass.com/event/136684/)
 * Mathematical Art Galleries
     * 日程: 2019/01/16 - 2019/01/19
     * 場所: Baltimore
