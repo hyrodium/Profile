@@ -38,7 +38,7 @@
 
 ## GitHub Pages
 * [pdf](https://hyrodium.github.io/pdf) 数学関連のPDF資料を置いてます
-
+* [BasicBSpline.jl](https://hyrodium.github.io/BasicBSpline.jl/stable/) [BasicBSpline.jl](https://zenn.dev/hyrodium/articles/5fb08f98d4a918)のドキュメントです
 
 ## 出展・発表歴
 学会発表, 制作物展示, LTなどなど
