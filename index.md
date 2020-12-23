@@ -17,7 +17,7 @@
 ## 自己紹介②
 これは私の名刺です.
 
-![](img/NameCard.gif)
+![](img/namecard.gif)
 
 ## SNSとか
 * [Twitter](https://twitter.com/Hyrodium)  一番よく居ます
