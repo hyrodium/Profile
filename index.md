@@ -90,6 +90,7 @@
     * 場所: 梅田北新地店 第４会議室
     * 「Frobeniusの定理」というタイトルでLTしました.
     * [発表資料](https://hackmd.io/p/Hkvm0AE3f#/1)
+    * [発表動画](https://www.youtube.com/watch?v=dZ8HO4T3ljg)
 * HackDay2016
     * 日程: 2016/02/13 - 2016/02/14
     * 場所: ベルサール秋葉原
