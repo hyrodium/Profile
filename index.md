@@ -1,4 +1,11 @@
 # profile
+
+別のGitHub pagesに移行しました↓↓↓
+http://hyrodium.github.io/
+Documenter.jlで作ってます↑↑↑
+
+ここのページはしばらく残しますが、間違えてここにリンク飛んでる場合は私までご連絡いただけると有り難いです
+
 ## 基本情報
 <img src="img/hyrodium.jpg" width="200">
 
